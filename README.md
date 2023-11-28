@@ -36,4 +36,4 @@ e. Fine-tune hyper parameters and unfreeze more layers as needed
 
 
 ### Note:
-
+Here For practical 2nd and 3rd only MNIST dataset is used.
